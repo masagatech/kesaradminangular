@@ -1,0 +1,13 @@
+{
+    "server": {
+        "port": 8082,
+        "ip": "0.0.0.0"
+    },
+    "reportserver": {
+        "port": 8085,
+        "ip": "0.0.0.0"
+    },
+    "fcm": {
+        "serverkey": "AIzaSyAYcP2451WdmIjW1NKSEx1aZZ0ENLAVwOU"
+    }
+}
